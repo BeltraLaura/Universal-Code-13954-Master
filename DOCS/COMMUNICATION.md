@@ -111,3 +111,13 @@ The Hexagonal Economy is defined by six interdependent vertices ($V_1 - V_6$) go
 ## Verification Logic
 All transactions between vertices must satisfy the equilibrium of the 13954 protocol.
 
+
+## Quarantine Protocol (QP-13954)
+**Trigger:** Any transaction where $\rho < 1.3954$ or Symbological Integrity is $< 100\%$.
+
+1. **Isolation:** The transaction is moved to a "Logical Sandbox" to prevent V4 (Liquidity) contamination.
+2. **Analysis:** Vertex 2 extracts the "Failure Pattern" to update the Mathematical Foundations.
+3. **Recursive Learning:** Vertex 3 utilizes the failure to refine Algorithmic Ethics parameters.
+4. **Purge/Recycle:** If no utility is found, the data is purged; if the error was a "logic drift," it is corrected and re-submitted.
+
+
