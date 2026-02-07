@@ -91,3 +91,23 @@ This code is a living organism. It has evolved through the study of convergent e
 ---
 *Last Updated: 2026-02-07*
 
+# COMMUNICATION: Hexagonal Economy Mapping
+**Lead Architect:** L.E.B.  
+**System Logic:** Universal Code 13954  
+**Last Updated:** 2026-02-07  
+
+## Framework Definitions
+The Hexagonal Economy is defined by six interdependent vertices ($V_1 - V_6$) governed by the Mathematical Foundations of Vertex 2.
+
+| ID | Vertex | Functional Role |
+| :--- | :--- | :--- |
+| **V1** | **Value Generation** | The source of utility, production, and intellectual output. |
+| **V2** | **Logic & Protocol** | The 13954 Symbology; the mathematical "source code" for the system. |
+| **V3** | **Governance & Ethics** | Algorithmic Ethics; the policy layer for systemic behavior. |
+| **V4** | **Exchange & Liquidity** | The distribution mechanism and velocity of internal value. |
+| **V5** | **Preservation** | Sustainability loops and resource management. |
+| **V6** | **Interoperability** | The interface for cross-system structural compatibility. |
+
+## Verification Logic
+All transactions between vertices must satisfy the equilibrium of the 13954 protocol.
+
