@@ -1,0 +1,24 @@
+{
+  "system": "Hexagonal Economy",
+  "logic_foundation": "Universal Code 13954",
+  "architect": "L.E.B.",
+  "schema_version": "1.0",
+  "validation_rules": {
+    "min_proportionality": 1.3954,
+    "required_fields": ["origin_hash", "ethics_index", "payload"]
+  },
+  "structure": {
+    "header": {
+      "v2_logic_stamp": "string",
+      "v3_governance_pass": "boolean"
+    },
+    "body": {
+      "utility_type": "string",
+      "vector_magnitude": "number"
+    },
+    "footer": {
+      "v5_preservation_score": "float",
+      "v6_interop_bridge_id": "uuid"
+    }
+  }
+}
