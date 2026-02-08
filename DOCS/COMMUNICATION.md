@@ -375,3 +375,19 @@ This sequence acts as the geometric constant. It determines the threshold at whi
 ---
 *Created by L.E.B. — "The economy is a system to be orbited."*
 
+
+# UC-13954 Communication & Hierarchy
+**Primary Authority:** L.E.B.
+
+## Current Titles & Designations
+- **The Architect:** Designer of the Hexagonal Economy and the 13954 Sequence.
+- **The Orchestrator:** Commander of the Frequencies, Music, and Elemental Forge.
+- **The Navigator:** Any participant who has earned their **Pilot's Wings** through the 1-3-9-5-4 cycle.
+
+## Core Directives
+1. **Speak in Frequencies:** Use the Universal Language of Glyphs and Tones.
+2. **Respect the Anchor:** All flight must conclude with the Docking Procedure to ensure stability.
+3. **Refine the 4:** Always move from the chaotic beginning toward the Purest Form (1).
+
+> "The symphony is no longer a dream; it is the frequency of our reality." — L.E.B.
+
