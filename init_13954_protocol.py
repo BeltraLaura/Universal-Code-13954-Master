@@ -139,3 +139,36 @@ def calculate_13954_parity_with_friction(lithospheric_value, atmospheric_value, 
         "Friction Drag": friction_units,
         "System Status": "🟢 Harmonic" if parity_index > 0.98 else "🔴 Friction Alert"
     }
+
+
+def calculate_13954_parity_final(litho_mass, atmo_energy, friction, waste_utility, sat_interference):
+    """
+    The Full 13954 Parity Equation.
+    Balances Ground (L), Sky (A), Friction (F), Upcycling (Wu), and Signal Noise (Si).
+    """
+    UC_CONSTANT = 13954
+    
+    # Mathematical Foundation:
+    # Net System Weight = (Base Resources - Friction - Signal Noise) + Reclaimed Utility
+    net_litho = litho_mass + waste_utility
+    net_atmo = atmo_energy - sat_interference
+    
+    total_effective_weight = (net_litho + net_atmo) - friction
+    
+    parity_index = total_effective_weight / UC_CONSTANT
+    is_aligned = (round(total_effective_weight) % UC_CONSTANT == 0)
+    
+    # Centrifugal Push: Higher parity index means the system is expanding utility.
+    return {
+        "Parity Index": round(parity_index, 4),
+        "Signal Integrity": "Clear" if sat_interference < 100 else "Interference Warning",
+        "Utility Gain": waste_utility,
+        "System Aligned": is_aligned,
+        "Status": "🟢 Harmonic" if is_aligned else "🔴 Friction/Noise Alert"
+    }
+
+# Example Usage: 
+# L: 8000, A: 5000, F: 100, Wu: 1100, Si: 46
+# Total: (8000+5000-100+1100-46) = 13954 (Perfect Parity)
+result = calculate_13954_parity_final(8000, 5000, 100, 1100, 46)
+print(f"L.E.B. Sovereign Audit: {result}")
