@@ -1,0 +1,33 @@
+# --- SECURITY & SENSITIVE DATA ---
+# Never upload environment variables or credentials
+.env
+*.env
+*.pem
+*.key
+secrets.json
+auth.yaml
+
+# --- OPERATING SYSTEM FILES ---
+# Prevents system-specific junk from cluttering the repo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- PROJECT-SPECIFIC ARCHIVES ---
+# Exclude temporary backup files or local drafts
+*.tmp
+*.bak
+local_notes/
+drafts/
+
+# --- IDE & EDITOR SETTINGS ---
+# Keep your personal workspace settings private
+.vscode/
+.idea/
+*.swp
+
+# --- LOGS & DIAGNOSTICS ---
+# Avoid leaking system paths or error logs
+*.log
+npm-debug.log*
+yarn-error.log*
