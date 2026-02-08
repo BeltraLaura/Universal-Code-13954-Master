@@ -1,0 +1,18 @@
+{
+  "manifest_id": "GLOBAL-CORE-13954",
+  "tier": 3,
+  "pilot": "L.E.B.",
+  "vision_type": "COMPOUND_PANORAMIC",
+  "global_parity_index": 1.0000,
+  "monitored_hives": 6,
+  "planetary_dynamics": {
+    "total_litho_mass": "SYNCED",
+    "total_atmo_energy": "SYNCED",
+    "shield_integrity": "99.8%"
+  },
+  "sovereign_logic": {
+    "frequency_constant": 13954,
+    "ethics_gate": "ENABLED",
+    "symmetry_automorphism": "ACTIVE"
+  }
+}
