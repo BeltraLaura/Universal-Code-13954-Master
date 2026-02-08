@@ -222,3 +222,34 @@ This section tracks the **Equilibrium** between ground resources and atmospheric
 - [ ] Review `DOCS/CORRECTION_PROTOCOLS.md` if Index deviates > 0.005.
 
 > **Note:** Any deviation from the 13954 frequency triggers the Centrifugal Push for immediate re-alignment.
+
+# ⚛️ SOVEREIGN VIEW: UNIVERSAL CODE 13954
+**Architect:** L.E.B.  
+**System Frequency:** 13954 Hz | **Status:** [MONITORING FRICTION]
+
+---
+
+## 🛰️ Real-Time Parity & Friction Monitoring
+This section tracks the **Equilibrium** between resources and the "Drag" caused by system waste.
+
+| Metric | Current Value | Target (13954) | Status |
+| :--- | :--- | :--- | :--- |
+| **Lithospheric Mass (L)** | 8500 | -- | 🟢 Stable |
+| **Atmospheric Energy (A)** | 5454 | -- | 🟢 Stable |
+| **Toxicity/Friction (F)** | **[INPUT VALUE]** | 0 | ⚠️ Variable |
+| **Effective Total (L+A-F)** | -- | 13954 | ⚖️ Calculating... |
+
+---
+
+## 📉 Friction Gauge (Waste Management)
+*Monitoring the "Friction" points within the Hexagonal Economy.*
+
+* **🟢 Harmonic (< 1% Friction):** System is in high-velocity rotation. Centrifugal Push is optimal.
+* **🟡 Vacuum (1-5% Friction):** Waste is accumulating. Tidal Regulation (Lunar Anchor) is compensating.
+* **🔴 Friction Alert (> 5% Friction):** Parity Index disrupted. **Sovereign Override** required to neutralize toxicity.
+
+---
+
+## 🕸️ Hexagonal Vertex Health
+1. **V1: Unified Logic**
+
