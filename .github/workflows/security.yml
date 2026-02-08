@@ -1,4 +1,7 @@
 name: Security Scan
+permissions:
+  contents: write
+  pull-requests: write
 on: [push, pull_request]
 jobs:
   scan:
