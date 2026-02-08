@@ -102,4 +102,3 @@ $$V_{eff} = \sum_{i=1}^{n} (f_i \cdot d_i) \cdot \sigma$$
 
 python3 main.py
 
-​
