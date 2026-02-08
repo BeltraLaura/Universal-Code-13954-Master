@@ -89,3 +89,47 @@ class UniversalCode13954:
         variance = 0.2  # The 'Chronological Flux' factor
         time_offset = (2 * math.pi * (hour_decimal - 4)) / 24
         dynamic_lambda = self.base_wings_constant + (variance * math.
+
+
+"""
+Module: UC_13954_Bio_Kinetic_Harmonizer
+Creator: L.E.B.
+Context: Sleep Recovery & Systemic Reset
+"""
+
+class UniversalCode13954:
+    def __init__(self):
+        self.base_wings_constant = 1.3954
+        self.system_status = "Active"
+        self.interference_debt = 0.0 # Accumulated 'Bleed'
+
+    def calculate_bio_decoupling(self, somatic_v, neural_v):
+        # ... (Existing Decoupling Logic) ...
+        bleed_factor = sum([s * n for s, n in zip(somatic_v, neural_v)])
+        self.interference_debt += (bleed_factor * 0.1) # Debt increases with use
+        return bleed_factor
+
+    def perform_sleep_resolution(self, sleep_duration):
+        """
+        The 'Still Point' Protocol.
+        Resets the interference debt and stabilizes the Wings Constant.
+        """
+        self.system_status = "Resolution/Rest"
+        
+        # Recovery is non-linear. The first 4 hours clear the most 'Bleed'.
+        # Formula: Recovery = Debt * e^(-duration / Lambda)
+        recovery_factor = math.exp(-sleep_duration / self.base_wings_constant)
+        self.interference_debt *= recovery_factor
+        
+        if self.interference_debt < 0.1:
+            self.interference_debt = 0.0
+            return f"Status: Perfect Isolation Achieved. Debt Cleared after {sleep_duration}hrs."
+        
+        return f"Status: Partial Reset. Residual Bleed: {self.interference_debt:.4f}"
+
+# Example for L.E.B.
+bio_engine = UniversalCode13954()
+# Simulating a day of high interference
+bio_engine.calculate_bio_decoupling([0.9, 0.8], [0.7, 0.9]) 
+# Applying the Sleep Recovery
+print(bio_engine.perform_sleep_resolution(8)) # 8 hours of rest
