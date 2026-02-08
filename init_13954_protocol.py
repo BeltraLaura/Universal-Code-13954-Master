@@ -115,3 +115,27 @@ def sovereign_override_13954(current_litho, current_atmo, override_key):
 
 # Usage:
 # result = sovereign_override_13954(8500, 6000, "LEB-13954-SIGIL")
+
+
+def calculate_13954_parity_with_friction(lithospheric_value, atmospheric_value, friction_units):
+    """
+    Enhanced parity calculation accounting for Toxicity/Friction.
+    """
+    UC_CONSTANT = 13954
+    
+    # Toxicity reduces the effective Litho-Mass
+    # Friction increases the required Atmo-Energy to maintain rotation
+    effective_mass = lithospheric_value - (friction_units * 0.15)
+    effective_energy = atmospheric_value - (friction_units * 0.10)
+    
+    total_effective_weight = effective_mass + effective_energy
+    parity_index = total_effective_weight / UC_CONSTANT
+    
+    # Alignment check: If friction is too high, symmetry is lost
+    is_aligned = (round(total_effective_weight) % UC_CONSTANT == 0)
+
+    return {
+        "Parity Index": round(parity_index, 4),
+        "Friction Drag": friction_units,
+        "System Status": "🟢 Harmonic" if parity_index > 0.98 else "🔴 Friction Alert"
+    }
