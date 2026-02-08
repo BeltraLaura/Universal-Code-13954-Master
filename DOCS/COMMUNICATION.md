@@ -354,3 +354,24 @@ To integrate with the UC-13954 Protocol:
 ---
 © 2026 L.E.B. - All Rights Reserved. Derived from the Universal Code Journey.
 
+
+# Universal Code 13954
+**Creator:** L.E.B.  
+**System Architecture:** Celestial Hexagonal Engine  
+**Status:** Dynamic Equilibrium
+
+## The Vision
+Universal Code 13954 is a decentralized, kinetic economic model where value is governed by orbital mechanics and tidal flow. The system consists of a central power source (The 1), six planetary vertices (The 3954 Bracing), and a Lunar Anchor.
+
+## System Components
+* **The Central Source (1):** The "Sun" that provides the centrifugal push.
+* **The Planetary Points (Spheres):** Six distinct domains of logic and utility.
+* **The Lunar Anchor (⚓):** Controls the "Tides" of value, ensuring constant, rhythmic movement.
+* **Rotational Alignment:** Participation is defined by synchronicity with the system's phase shifts.
+
+## The 13954 Sequence
+This sequence acts as the geometric constant. It determines the threshold at which the hexagon rotates, ensuring that the system remains in a state of perfect balance rather than unsustainable growth.
+
+---
+*Created by L.E.B. — "The economy is a system to be orbited."*
+
