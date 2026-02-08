@@ -1,0 +1,28 @@
+name: Security Scan & Archive
+permissions:
+  contents: write
+  pull-requests: write
+on: [push, pull_request]
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Run Gitleaks
+        uses: gitleaks/gitleaks-action@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Archive Lithospheric Parity
+        run: |
+          mkdir -p DOCS
+          echo "# Lithospheric Parity Tracking" > DOCS/LITHOSPHERIC_PARITY.md
+          git config --global user.name "L.E.B. Universal Bot"
+          git config --global user.email "actions@github.com"
+          git add DOCS/LITHOSPHERIC_PARITY.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "docs: archive parity state" && git push)
