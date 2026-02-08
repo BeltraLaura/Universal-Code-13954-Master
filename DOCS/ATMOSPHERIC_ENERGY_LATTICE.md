@@ -28,3 +28,6 @@ Energy providers and consumers are bound by the **13954 Power Symmetry**.
 
 ## III. Environmental Feedback Loop
 For every kilowatt extracted from a weather event, a "Parity Credit" is returned to the **Environmental Stewardship** log, ensuring the extraction doesn't disrupt the Earth's natural cooling/warming cycles.
+
+
+​V-Link Protocol: This lattice is the "Shadow Side" of the Lithosphere. Every energy fluctuation is a result of a 13954-coded physical movement.
