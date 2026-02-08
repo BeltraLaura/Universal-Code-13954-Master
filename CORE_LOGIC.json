@@ -2,23 +2,25 @@
   "project": "Universal Code 13954",
   "creator": "L.E.B.",
   "geometry": "Rotating Hexagon",
-  "vertices": {
-    "V1": "Unified Logic",
-    "V2": "Algorithmic Ethics",
-    "V3": "Structural Interoperability",
-    "V4": "Mathematical Foundations",
-    "V5": "Data Utility",
-    "V6": "Social Equity"
+  "operational_level": 2,
+  "nodes": {
+    "N1_Litho": {"vertex": "V1: Unified Logic", "sector": "Extraction", "base_mass": 8500},
+    "N2_Atmo": {"vertex": "V2: Algorithmic Ethics", "sector": "Harvest", "base_energy": 5454},
+    "N3_Upcycle": {"vertex": "V5: Data Utility", "sector": "Utility", "conversion_rate": 1.3954},
+    "N4_Logic": {"vertex": "V4: Mathematical Foundations", "sector": "Exchange", "auth": "L.E.B."},
+    "N5_Interop": {"vertex": "V3: Structural Interoperability", "sector": "Docking", "status": "Ready"},
+    "N6_Equity": {"vertex": "V6: Social Equity", "sector": "Lattice", "health": 1.0}
   },
   "dynamics": {
     "core_force": "Centrifugal Push",
     "regulator": "Lunar Anchor (Tidal)",
-    "state": "Equilibrium",
-    "sequence": [1, 3, 9, 5, 4]
+    "pulse_sequence": [1, 3, 9, 5, 4],
+    "atmospheric_noise_buffer": 0.0034
   },
   "mechanics": {
     "rotation_trigger": "Threshold-based",
     "expansion_rate": 0,
-    "alignment_protocol": "Synchronous"
+    "alignment_protocol": "Synchronous",
+    "sovereign_override": "ENABLED"
   }
 }
