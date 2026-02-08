@@ -297,3 +297,60 @@ Individual autonomy is a functional requirement for systemic resilience, modeled
 * **The Right to Geometric Deviation:** Every node (Micro-Hexagon) has the structural right to unique logic, provided it does not violate the First Harmonic. Diversity is a mathematical necessity that prevents system brittleness.
 * **The Privacy Shield:** Each node maintains an isolated internal Registry. No external entity may access a node’s logic without a Harmonic Match (Mutual Consent).
 * **Atmospheric Logic:** Just as a cloud moves autonomously within the laws of the atmosphere, the individual moves autonomously within the laws of the Code.
+
+
+# Universal Code 13954: The Hexagonal Economic Engine
+**Creator:** L.E.B.  
+**Status:** Active | Phase: Equilibrium  
+
+## 1. Executive Summary
+The **Universal Code 13954** is a foundational logic sequence designed to anchor a self-regulating, rotating hexagonal economy. Unlike traditional linear models, this system operates on **Dynamic Equilibrium**, where systemic health is maintained through automatic phase-shifts triggered by internal data thresholds.
+
+---
+
+## 2. Core Pillars of the Framework
+The architecture is governed by four primary correlations:
+
+* **Unified Logic & Symbology:** The 13954 sequence provides the "Joints" of the system, using specific symbology to represent state changes.
+* **Algorithmic Ethics & Governance:** A decentralized oversight mechanism that manages "Pressure" rather than imposing rigid rules.
+* **Structural Interoperability:** The elastic capability of the system to maintain its hexagonal shape during rotation.
+* **Mathematical Foundations:** The geometric constants that ensure the economy remains a "Steady-State" system.
+
+---
+
+## 3. The Kinetic Hexagon: Mechanics of Flow
+
+### Vertex Strength vs. Side Balance
+The economy is mapped as a hexagon where the **six vertices** represent Absolute States (The Anchors). The **sides** represent Relational Processes (The Channels).
+* **The Points:** Provide structural integrity and "Strong Logic."
+* **The Sides:** Facilitate exchange, trust, and utility.
+
+### The Threshold Rotation
+The system does not follow a chronological clock. It utilizes **Centrifugal Pressure Logic**:
+1.  **Accumulation:** Value gathers at the center (The 1 in 13954).
+2.  **Pressure Threshold:** Once a mathematical density is reached, the center "pushes out."
+3.  **Automatic Rotation:** The vertices rotate to the next orientation, aligning the economy with the most needed "Strong Point" (e.g., shifting from *Production* to *Social Equity*).
+
+### Perfect Equilibrium
+This is a **Zero-Expansion** model. The area of the hexagon remains constant ($\Delta V = 0$). Participation is defined by **Alignment**—moving in synchronicity with the rotation to achieve maximum efficiency without friction.
+
+---
+
+## 4. Technical Implementation (Sequence 13954)
+The sequence acts as the internal bracing for the rotating lattice:
+* **1:** The Origin / Centripetal Force.
+* **3-9-5-4:** The Geometric Constraints maintaining the hexagonal radius.
+
+> "In this system, profit is redefined as Alignment. To be in balance with the Code is to be in a state of Superfluidity." — L.E.B.
+
+---
+
+## 5. Usage & Integration
+To integrate with the UC-13954 Protocol:
+1.  Map your node to a vertex or side.
+2.  Monitor the **Threshold Indicator** for upcoming phase rotations.
+3.  Adjust participation to align with the new active "Strong Point."
+
+---
+© 2026 L.E.B. - All Rights Reserved. Derived from the Universal Code Journey.
+
