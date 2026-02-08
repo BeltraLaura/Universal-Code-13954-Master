@@ -31,3 +31,42 @@ def run_uc13954_audit(growth_next, growth_current, area, perimeter, network_capa
 
 # Example usage for a new project:
 # run_uc13954_audit(growth_next=162, growth_current=100, area=50, perimeter=27, network_capacity=31, total_mass=100)
+
+
+import math
+
+def calculate_active_correction(litho, atmo):
+    UC_CONSTANT = 13954
+    total = litho + atmo
+    
+    # Calculate how far we are from the nearest harmonic multiple
+    remainder = total % UC_CONSTANT
+    
+    if remainder == 0:
+        return {
+            "Status": "STABLE",
+            "Action": "None",
+            "Delta": 0
+        }
+    
+    # Determine the shortest path to restoration
+    # If we are more than halfway to the next multiple, we push forward.
+    # Otherwise, we pull back.
+    if remainder > (UC_CONSTANT / 2):
+        delta = UC_CONSTANT - remainder
+        phase = "Phase II: Atmospheric Vent (Increase Energy)"
+    else:
+        delta = -remainder
+        phase = "Phase II: Lithospheric Sink (Ground Excess)"
+        
+    return {
+        "Status": "FRICTION",
+        "Action": phase,
+        "Correction_Required": abs(delta),
+        "Instruction": f"Adjust system by {abs(delta)} units to hit 13954 frequency."
+    }
+
+# Example: A system in Friction
+correction = calculate_active_correction(8500, 6000) 
+print(f"L.E.B. Governance Report: {correction}")
+
