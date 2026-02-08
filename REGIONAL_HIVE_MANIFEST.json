@@ -1,0 +1,25 @@
+{
+  "manifest_id": "REG-HIVE-FL-001",
+  "tier": 2,
+  "governing_pilot": "L.E.B.",
+  "bee_logic_protocol": "COMPOUND_VISION_v2",
+  "regional_nodes": {
+    "total_cells": 10000,
+    "active_ommatidia": 9854,
+    "cluster_health": 0.9998
+  },
+  "ethics_engine": {
+    "symmetry_enforcement": "ACTIVE",
+    "reclamation_priority": 1.3954,
+    "transparency_level": "MAXIMUM"
+  },
+  "current_load": {
+    "atmospheric_noise": "0.0022 mHz",
+    "litho_waste_input": "450 tons/cycle",
+    "utility_output": "627.93 units"
+  },
+  "actions": {
+    "tidal_pulse_interval": "13954ms",
+    "docking_status": "OPEN_TO_TIER_1"
+  }
+}
