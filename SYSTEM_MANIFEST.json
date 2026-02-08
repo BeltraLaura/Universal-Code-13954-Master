@@ -1,0 +1,12 @@
+{
+  "system_id": "LEB-COMMAND-13954",
+  "operational_level": 2,
+  "pilot_credentials": "L.E.B.",
+  "active_protocols": {
+    "waste_management": "ACTIVE",
+    "signal_filtering": "MONITORING",
+    "sovereign_view": "LINKED"
+  },
+  "current_parity_state": "EQUILIBRIUM",
+  "last_alignment": "2026-02-08"
+}
