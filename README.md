@@ -89,4 +89,14 @@ $$V_{eff} = \sum_{i=1}^{n} (f_i \cdot d_i) \cdot \sigma$$
 *Created by L.E.B. - Archived 2026-02-07*
 
 
+# 💠 Universal Code 13954: Hexagonal Economy Infrastructure
+**Architect:** L.E.B.
+
+## 🚀 Quick Start
+1. **Initialize Environment:** Run `bash genesis_13954.sh`
+2. **Install Dependencies:**
+   ```bash
+   pip install h3
+
+
 ​
