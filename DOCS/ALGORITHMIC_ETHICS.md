@@ -43,3 +43,17 @@ We utilize **Sheaf Theory** to manage the relationship between the Individual an
 ---
 *Document Version: 1.0.0*
 *Archived under the Universal Code 13954 Master Repository.*
+
+
+# TEMPORAL GOVERNANCE: THE COOL-DOWN PROTOCOL
+
+**Author:** L.E.B.  
+**Reference:** Protocol 13954-T  
+
+## I. Definition of Settling Time
+The Hexagonal Economy is not instantaneous. Physical mass (Lithosphere) has inertia. Therefore, when the Sovereign (Violet) acts, the system must respect the **Time-Constant of Matter**.
+
+## II. The Lock-Out Rule
+- **Manual Intervention:** Triggers a 5-cycle lock.
+- **Purpose:** Prevents "Oscillation Friction" where the machine and the creator fight for control of the frequency.
+- **Override:** Only a second, higher-level Sigil from **L.E.B.** can break a Cool-Down lock.
