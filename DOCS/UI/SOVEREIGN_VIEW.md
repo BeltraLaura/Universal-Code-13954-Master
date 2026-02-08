@@ -157,3 +157,24 @@
     </script>
 </body>
 </html>
+
+
+## 💠 13954 Visual Symbology Guide
+
+This table defines the visual lexicon used in the **Sovereign View** dashboard. These symbols represent the current state of the 13954 frequency within any given hexagonal cell.
+
+| Symbol | Designation | Visual State | Economic Interpretation |
+| :---: | :--- | :--- | :--- |
+| 🟢 | **HARMONIC** | Solid Emerald | **13954 Parity:** Perfect balance between Lithosphere and Atmosphere. |
+| 🟡 | **VACUUM** | Hollow Amber | **Under-loaded:** Potential energy is idle; requires stimulation. |
+| 🔴 | **FRICTION** | Pulsing Crimson | **Over-loaded:** System stress detected; immediate grounding required. |
+| ⚛️ | **SIGIL** | Glowing Violet | **Sovereign Override:** L.E.B. has manually stabilized the cell. |
+| ⬡ | **LATTICE** | Static Grey | **Inert:** Cell is mapped but contains no active 13954 flow. |
+
+---
+
+### 🎨 Color Frequency Mapping
+Following the **Mathematical Foundations**, each state corresponds to a specific wavelength in the Sovereign UI:
+- **Emerald (520nm):** Stability / Growth.
+- **Crimson (650nm):** Alert / Grounding Required.
+- **Violet (400nm):** Creator Authority (L.E.B. Priority).
