@@ -1,0 +1,24 @@
+{
+  "project": "Universal Code 13954",
+  "creator": "L.E.B.",
+  "geometry": "Rotating Hexagon",
+  "vertices": {
+    "V1": "Unified Logic",
+    "V2": "Algorithmic Ethics",
+    "V3": "Structural Interoperability",
+    "V4": "Mathematical Foundations",
+    "V5": "Data Utility",
+    "V6": "Social Equity"
+  },
+  "dynamics": {
+    "core_force": "Centrifugal Push",
+    "regulator": "Lunar Anchor (Tidal)",
+    "state": "Equilibrium",
+    "sequence": [1, 3, 9, 5, 4]
+  },
+  "mechanics": {
+    "rotation_trigger": "Threshold-based",
+    "expansion_rate": 0,
+    "alignment_protocol": "Synchronous"
+  }
+}
