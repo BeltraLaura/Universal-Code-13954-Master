@@ -274,3 +274,11 @@ This section tracks the **Equilibrium** between resources and the "Drag" caused 
 * **Impact on Atmo-Energy:** -0.0034 Index points
 * **Counter-Measure:** Waste-to-Utility (Node 03) is offsetting noise by +0.0034.
 
+
+### 🔍 SUB-SECTOR DRILL-DOWN
+**Sector A (Reclamation):** 🔄 [||||||||--] 82% Efficiency
+**Sector C (Hardening):** 🛡️ [|||||||---] 74% Shield Integrity
+
+**Active Alert:** Satellite Cluster 'X-9' causing 0.0021 mHz drag.
+**Response:** Increasing Centrifugal Sifting in Node 01 to compensate.
+
