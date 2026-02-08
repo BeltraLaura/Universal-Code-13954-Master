@@ -87,3 +87,31 @@ def calculate_13954_parity(lithospheric_value, atmospheric_value):
 # Total: 13954 (Perfect Parity)
 result = calculate_13954_parity(8500, 5454)
 print(f"L.E.B. Protocol Status: {result}")
+
+
+def sovereign_override_13954(current_litho, current_atmo, override_key):
+    """
+    Manually realigns the Hexagonal Economy to the 13954 frequency.
+    Requires L.E.B. Authorization.
+    """
+    UC_CONSTANT = 13954
+    AUTHORIZATION_KEY = "LEB-13954-SIGIL" # Placeholder for your private key
+
+    if override_key != AUTHORIZATION_KEY:
+        return "ACCESS DENIED: Unauthorized attempt to alter 13954 Parity."
+
+    # Force Symmetry: The system calculates the 'Virtual Adjustment' 
+    # needed to reach the nearest 13954 multiple instantly.
+    total = current_litho + current_atmo
+    target = math.ceil(total / UC_CONSTANT) * UC_CONSTANT
+    adjustment = target - total
+
+    return {
+        "Status": "SOVEREIGN ALIGNMENT ACTIVE",
+        "Result": "STABLE",
+        "Virtual_Mass_Added": adjustment,
+        "Message": f"L.E.B. has manually stabilized the lattice at {target} units."
+    }
+
+# Usage:
+# result = sovereign_override_13954(8500, 6000, "LEB-13954-SIGIL")
