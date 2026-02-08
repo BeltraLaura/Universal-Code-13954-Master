@@ -28,3 +28,30 @@ class V6Interop:
 interop = V6Interop()
 bridge_report = interop.translate_to_hex(50000)
 print(f"V6_INTEROP Report for L.E.B.: {bridge_report}")
+
+
+import os
+from datetime import datetime
+
+def log_handshake(source_id, native_val, adapted_val, status):
+    """
+    Records the successful adaptation of legacy data into the 13954 lattice.
+    """
+    timestamp = datetime.now().strftime("%Y-%m-%d:%H%M")
+    log_path = "LOGS/CONNECTIVITY_HANDSHAKE.md"
+    
+    # Initialize file if it doesn't exist
+    if not os.path.exists(log_path):
+        with open(log_path, "w") as f:
+            f.write("# CONNECTIVITY HANDSHAKE LOG: 13954 V6_INTEROP\n\n")
+            f.write("| Timestamp | Source ID | Protocol | Native Value | 13954 Adapted Value | Status |\n")
+            f.write("| :--- | :--- | :--- | :--- | :--- | :--- |\n")
+
+    # Write the entry
+    with open(log_path, "a") as f:
+        f.write(f"| {timestamp} | {source_id} | V6_INTEROP | {native_val:,} | {adapted_val:,} | **{status}** |\n")
+
+    print(f"📡 Handshake logged for {source_id}: {status}")
+
+# Example Usage
+# log_handshake("EXT_FIN_API_01", 50000, 55816, "AUTHORIZED")
