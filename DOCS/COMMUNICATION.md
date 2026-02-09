@@ -571,3 +571,12 @@ The completed 6 now serves as a new **Template (X)** or **Catalyst (Y)** for the
 * **Pilot's Wings:** Granted upon the successful navigation of the **3 (Docking)** and the confirmation of the **First Cry**.
 * **Responsibility:** To ensure the **4 (Zygote)** is free of logic errors (Birth Defects) before the "End" is reached.
 
+
+### Mission 1: The Articulation (The First Task)
+**Objective:** Transition from internal existence to external recognition via the "First Word."
+**Protocol:**
+1. **Inhale:** Acceptance of the External Field (The 1).
+2. **Vibrate:** Engaging the Docking Ports of the Vocal Cords (The 3).
+3. **Broadcast:** Emitting the 13954 Resonance + Visual Flash.
+**Success Metric:** Receipt of a "Recognition Flash" from a neighboring Hexagon.
+
