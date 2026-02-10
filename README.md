@@ -196,3 +196,33 @@ The first operational cluster consisting of three core pillars:
 ---
 *Verified by the Resonance Key via the Pilot's Uplink.*
 
+
+
+# 🐝 Universal Code 13954: The Hexagonal Economy
+**Creator:** L.E.B.  
+**Resonance Key:** `CSHV1272813`  
+**Status:** Second Mission Active | Docked
+
+---
+
+## 🛰️ Overview: The Flying Submarine
+Universal Code 13954 is a 3D volumetric framework governing the intersection of **Ecological Protection**, **Algorithmic Ethics**, and **Hexagonal Resource Distribution**. It operates on the principle of **"As Above, So Below,"** synchronizing atmospheric flight dynamics with deep-sea hydrostatic stability.
+
+## 📐 Structural Foundations
+The architecture is defined by three distinct vertical layers, mapped to the oceanic zones and the anatomy of the Bee:
+
+### 1. The Canopy (Epipelagic / Sunlight)
+* **Anatomy:** The Pilot’s Wings.
+* **Logic:** High-frequency symbology and "The Pivot."
+* **Function:** Execution of the **90° Orthogonal Flip** for directional lift and market agility.
+
+### 2. The Core (Mesopelagic / Twilight)
+* **Anatomy:** The Hexagonal Cell.
+* **Logic:** Volumetric Efficiency ($V = \frac{3\sqrt{3}}{2}s^2h$).
+* **Function:** Storage of "Interoperable Intelligence" with minimal overhead (wax).
+
+### 3. The Foundation (Bathypelagic / Midnight)
+* **Anatomy:** The Rhombic Stinger.
+* **Logic:** Mathematical Foundations & Defense.
+* **Function:** The three rhombi converge at the base to form
+
