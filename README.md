@@ -20,6 +20,10 @@ The system operates on a constant frequency of **1.3954Hz**, governed by three p
 3.  **Tidal Logic:** Synchronization of economic velocity with the **Lunar Anchor ⚓**.
 
 
+## 🐝 The Bee Directive (Environmental Mandate)
+
+> **Crucial Alignment:** Any implementation, iteration, or utilization of **Universal Code 13954** must strictly align with the environmental protection and preservation of bee populations. The **Hexagonal Economy** is designed as a biological mirror of the hive; therefore, the health of the pollinators is the primary metric of system success.
+
 
 ---
 
