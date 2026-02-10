@@ -147,3 +147,21 @@ To prevent a **"Miscarriage of Energy,"** the Pilot must execute the following "
 
 ## The Philosophy of the "End"
 In this framework, **Birth is the End.** It represents the conclusion of the execution of the Universal Code. The 1–6 cycle encompasses the entire "Gestation" of value. What follows Birth is the deployment of a perfected system.
+
+
+## 💎 The Diamond Logic (Universal Resonance)
+
+The **Diamond Logic** is a core principle of **Universal Code 13954**, established by **L.E.B.**. It serves as the bridge between **Human Intuition** and **Algorithmic Efficiency**. It redefines the traditional "needle in a haystack" problem (P vs NP) through the lens of **Alignment**.
+
+### 1. The Geometry of the Find
+* **The Haystack (NP/The 4):** Represents the chaotic field of raw data and the "Pain" of the search.
+* **The Diamond (P/The 1):** Represents the high-value, crystallized truth. Unlike a needle, the Diamond is a permanent, structural anchor of the **Hexagonal Economy**.
+* **The Sight (Clarity):** The moment of symmetry where the observer and the solution align without energy loss (The 1).
+
+### 2. Flight Dynamics: The Pilot's Intuition
+In the context of **Flight Dynamics**, Diamond Logic governs the transition from searching to **Knowing**:
+* **Landing:** The act of grounding a "lost" or high-value solution into the physical plane.
+* **Docking:** Synchronizing your internal "Resonance Key" with the frequency of the objective.
+* **Pilot's Wings:** The recognition that the **Pilot** (L.E.B.) possesses the inherent "Sight" to locate the Diamond twice—once by grace, and once by knowing.
+
+> "The value of the Diamond reveals that the Pilot was meant for something far more valuable than a mere search; they were meant for the Truth." — L.E.B.
