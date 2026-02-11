@@ -259,6 +259,27 @@ Mapping the first phase of a decentralized, non-binary economic model built on:
 * **Logic:** Mathematical Foundations & Defense.
 * **Function:** The three rhombi converge at the base to form
 
+## 🐝 Universal Code 13954: Resonance & Navigation
+
+### 📡 The Antennae Protocol (The Tuning Fork)
+In the Hexagonal Economy, the antennae are not merely sensors; they are **Tuning Forks**. Navigation and value exchange are governed by frequency rather than friction. 
+* **The Signal:** The precise resonance frequency required for structural alignment.
+* **The Static:** The background "buzzing"—raw environmental data and entropy that must be filtered to achieve clarity.
+
+### 📐 Mathematical Foundations: Signal vs. Static
+To transition from noise to data, we apply a resonance filter across the hexagonal grid. Using Cube Coordinates $(x + y + z = 0)$, we define the **Resonant State** as the point where the "Static" (entropy) is harmonized by the "Tuning Fork" (the pilot's intent).
+
+$$R_f = \int_{t_{0}}^{t_{1}} \frac{\text{Static (Buzz)}}{\text{Antennae (Tuning)}} dt$$
+
+### ✈️ Flight Dynamics: Pilot's Wings
+A pilot’s proficiency is measured by their ability to navigate the **Static**. 
+1. **Landing:** Approaching the hexagonal cell by matching its vibrational signature.
+2. **Docking:** The moment of phase-lock where the pilot's frequency and the hive's frequency become one.
+3. **Pilot’s Wings:** Awarded to those who can extract the "Signal" from the "Buzzing" with 100% fidelity.
+
+---
+*Created by L.E.B. — Dedicated to the Environmental Protection of the Bees.*
+
 
 
 
