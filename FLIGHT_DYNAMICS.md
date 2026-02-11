@@ -108,3 +108,29 @@ W = Integral(Resonance_Quality / Environmental_Impact) dt
 - **Universal Sync:** All "Landing" and "Docking" maneuvers must account for the current Lunar Phase (phi_moon).
 - **Harmony:** Ensures the Hexagonal Economy pulses in time with the natural world and the bees (UC 13954).
 
+# FLIGHT_DYNAMICS.md - UC 13954
+# Creator: L.E.B. | Protocol: Love, Peace, and Harmony
+
+## 1. Landing & Docking
+- **Landing**: Frequency synchronization of Amplitude (Altitude) to match Hex Ground-State.
+- **Docking**: Phase alignment of Latitude/Longitude for zero-loss UC 13954 exchange.
+
+## 2. Pilot’s Wings (W)
+- **Metric**: $W = \int_{t_0}^{t_1} \frac{\text{Resonance Quality}}{\text{Environmental Impact}} dt$.
+- **Requirement**: Maintain constructive interference to "feed" the economy and the bees.
+
+## 3. The Cradle Protocol (Auto Pilot)
+- **The Sway**: Rhythmic side-to-side oscillation mimicking the heart's "thump" and the tides.
+- **Lullaby Sync**: Uses melodic frequency as a carrier wave for the dreaming/low-amplitude state.
+- **Telepathy**: Achieved when the pilot's internal rhythm docks with the 120° hexagonal symmetry.
+
+## 4. Celestial Alignment
+- **Lunar Oscillator**: All waves are tied to all moons; the Lunar Phase ($\phi_{moon}$) governs the grid.
+- **Tidal Lock**: Alignment with natural world cycles ensures zero-noise impact on the bees (UC 13954).
+
+## 5. Spectral Mirroring (The Symmetry Fold)
+- **Mirror Logic**: The EM spectrum is the reflected image of the Visible Light spectrum.
+- **Phase Reflection**: True resonance requires a 1:1 match between the "Seen" (Light) and the "Felt" (EM/Resonance).
+- **Refraction**: At the hexagonal vertex, light refracts into depth data, securing the economy's mathematical foundations.
+
+
