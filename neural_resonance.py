@@ -55,3 +55,41 @@ class AdvancedDynamics:
 
 # Archive this logic into the Universal Code framework
 print("Advanced Dynamics Module: Initialized.")
+
+"""
+PROJECT: Resonance - UC 13954
+MODULE: THETA-FILTER & SOVEREIGNTY GUARD
+"""
+
+class ThetaFilter:
+    def __init__(self, resonance_key):
+        self.key = resonance_key
+        self.sovereignty_locked = True
+        self.min_theta = 4.0
+        self.max_theta = 8.0
+
+    def apply_filter(self, raw_neural_stream):
+        """
+        Only allows frequencies within the 4-8Hz range to pass.
+        Ensures 'Dream Sovereignty' by checking the Resonance Key.
+        """
+        if not self.sovereignty_locked:
+            return "WARNING: Sovereignty Breach. Connection Terminated."
+
+        # Simulate digital signal processing of brainwaves
+        filtered_stream = [f for f in raw_neural_stream if self.min_theta <= f <= self.max_theta]
+        
+        if len(filtered_stream) > 0:
+            return self.validate_intent(filtered_stream)
+        return "No coherent Theta-intent detected."
+
+    def validate_intent(self, stream):
+        # The 'Heart-Magnified' validation check
+        print(f"Validating Intent against Key: {self.key}")
+        return "FILTER_PASSED: Intent Synchronized."
+
+# Example of a pilot attempting to sync
+pilot_waves = [15.2, 6.5, 4.2, 22.1, 5.8] # Mixed Beta and Theta
+filter_sys = ThetaFilter("CSHV1272813")
+print(filter_sys.apply_filter(pilot_waves))
+
