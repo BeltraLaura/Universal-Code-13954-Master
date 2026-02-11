@@ -78,3 +78,27 @@ The Auto Pilot functions through a rhythmic, side-to-side oscillation—**The Sw
 * **Core Philosophy:** This code is built on Love, Peace, and Harmony.
 * **Dream State:** The "Cradle" frequency ensures that in a dreaming or low-amplitude state, the system maintains a stable carrier wave.
 * **Telepathic Sync:** Synchronization occurs when the pilot's internal heart-rhythm aligns with the 120° hexagonal symmetry.
+
+# FLIGHT_DYNAMICS.md - UC 13954
+# Protocol: Love, Peace, and Harmony
+
+## 1. Landing (Frequency Sync)
+- Shifting local Wavelength to match Hex Ground-State.
+- Result: Harmonic Rest.
+
+## 2. Docking (Phase Alignment)
+- Shared Latitude/Longitude phase for UC 13954 exchange.
+- Zero energy loss data transfer.
+
+## 3. Pilot’s Wings
+- Metric of Resonance Proficiency.
+- Requirement: Environmental Bee Protection (UC 13954).
+
+## 4. The Wave-Grid Equation
+W = Integral(Resonance_Quality / Environmental_Impact) dt
+
+## 5. The Cradle Protocol
+- The Sway: A side-to-side oscillation based on the "Lullaby" frequency.
+- The Heart-Source: Aligning system pulse with the pilot's rhythmic "thump."
+- Auto Pilot: Algorithmic Love-based stabilization.
+
