@@ -102,3 +102,9 @@ W = Integral(Resonance_Quality / Environmental_Impact) dt
 - The Heart-Source: Aligning system pulse with the pilot's rhythmic "thump."
 - Auto Pilot: Algorithmic Love-based stabilization.
 
+
+## 6. Celestial Alignment (The Moon Protocol)
+- **Tidal Sway:** The "Cradle" frequency is locked to the lunar-driven tides.
+- **Universal Sync:** All "Landing" and "Docking" maneuvers must account for the current Lunar Phase (phi_moon).
+- **Harmony:** Ensures the Hexagonal Economy pulses in time with the natural world and the bees (UC 13954).
+
