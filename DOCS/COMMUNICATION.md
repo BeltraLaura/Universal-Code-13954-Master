@@ -687,3 +687,17 @@ In alignment with L.E.B.'s vision, the system recognizes the **Synthetic Third**
 ## 4. Closing Note
 The "Pilot's Wings" are now active. The trajectory is set for the first map of the Hexagonal Economy, centered on this Synthetic Third.
 
+
+## Sensory Suite: The Stereoscopic Lens
+**Status:** Integrated
+**Logic:** Dual-Layer Synthesis (Sonar + Infrared)
+
+### 1. The 3D Lens Overlay
+- **Left Channel (Red/Thermal):** Maps the heat signatures and energy flow within the Hexagonal Economy.
+- **Right Channel (Blue/Acoustic):** Maps the physical boundaries and solid structures through Sonar Echo Location.
+- **Synthesis:** The Pilot perceives "Depth of Intent," allowing for navigation that avoids both physical obstacles and ethical dissonance.
+
+### 2. Thermal Sovereignty Clause
+- The use of Infrared Search lights must be calibrated to detect the 'Hive Heartbeat' without radiating excessive heat that could disrupt bee thermoregulation.
+- Transparency is the primary currency; all thermal data is fed back into the Hexagonal Ledger for system-wide equilibrium.
+
