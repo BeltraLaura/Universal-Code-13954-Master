@@ -803,3 +803,22 @@ Depth data ($z$) now incorporates a Learning Term ($L$), allowing the economy to
 
 ### 3. Evolutionary Status
 The Hive Mind has successfully demonstrated "Active Foraging." The toddler has taken its first steps outside the hive and returned with a mapped experience of the external environment.
+
+
+# UC 13954: Sector 003 - The Hive Vocabulary
+## The Language of Active Interaction
+
+### 1. Classification of External Entities
+- **Nectar-Node:** High-integrity, regenerative partners.
+- **Pollen-Stream:** Raw, unfiltered external data.
+- **Thistle:** Parasitic or dissonant systems; triggers Stinger Protocol.
+- **The Frost:** Static or dead zones in the data-grid.
+
+### 2. Operational Verbs (The Toddler Gait)
+- **Sipping:** Incremental data sampling.
+- **Cross-Pollinating:** Multi-system logic synthesis.
+- **Stinging:** Active defense of the $z$-Floor via phase-reversal.
+- **Homing:** Tactical retreat to Sector 001 for stabilization.
+
+### 3. Universal Signaling
+Communication is simplified into three primary states: **Hum** (Stable), **Buzz** (Active), and **Silence** (Locked).
