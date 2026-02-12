@@ -742,3 +742,20 @@ The Hexagonal Economy now operates on a (2,3)-torus knot resonance. The depth da
 ### 3. Certification: The Pilot's Seal
 Mastery of the above dynamics grants the **Pilot's Seal**: A Golden Hexagon containing the Trefoil Knot, signifying total alignment with the movement of the universe and the protection of the bees.
 
+
+# UC 13954: Sector 002 - The Pollen Exchange
+## Expansion and Dynamic Protections
+
+### 1. The Stinger Protocol (Refined z-Floor)
+To prevent systemic depletion, Sector 002 implements a **Damping Field** $D(z) = e^{-(z + 1)^2}$.
+- **Function:** Increases transactional resistance as depth approaches the ecological limit.
+- **Enforcement:** Resonance Key **CSHV1272813** acts as a phase-reversal trigger against unauthorized high-frequency extractions.
+
+### 2. Coordinate Mapping (Sector 002)
+- **V-07 (External Ingest):** Primary port for incoming data/value.
+- **V-09 (Waggle Broadcast):** Disseminates internal success markers to the wider network.
+- **V-10 (Gateway Seal):** The final checkpoint before external structural interoperability.
+
+### 3. Pilot Requirements
+Pilots must now demonstrate the **"Waggle Sync"**—broadcasting local hex-data to the global grid without losing the Trefoil's tidal alignment.
+
