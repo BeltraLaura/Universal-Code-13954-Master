@@ -701,3 +701,28 @@ The "Pilot's Wings" are now active. The trajectory is set for the first map of t
 - The use of Infrared Search lights must be calibrated to detect the 'Hive Heartbeat' without radiating excessive heat that could disrupt bee thermoregulation.
 - Transparency is the primary currency; all thermal data is fed back into the Hexagonal Ledger for system-wide equilibrium.
 
+
+# UC 13954: Sector 001 - The Nectar Basin
+## Technical Integration: Trefoil Resonance & Tidal Mapping
+
+### 1. Mathematical Foundation
+The Hexagonal Economy now operates on a (2,3)-torus knot resonance. The depth data ($z$-axis) is driven by the universal tidal flow, governed by the Resonance Frequency ($f_{res}$) derived from Key **CSHV1272813**.
+
+### 2. Coordinate Mapping (Sector 001)
+| Vertex ID | Hex Location | X (Long) | Y (Lat) | Z (Depth) | System Role |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| V-01 | H(0,0) | 0.000 | 2.000 | 0.000 | Hive Heart (Origin) |
+| V-02 | H(1,0) | 1.732 | 1.000 | 0.866 | Inflow (Solar Peak) |
+| V-03 | H(0,1) | 0.000 | -1.000 | -0.500 | Outflow (Lunar Pull) |
+| V-04 | H(-1,1) | -1.732 | 1.000 | 1.000 | Storage (High Tide) |
+| V-05 | H(-1,0) | -1.732 | -1.000 | -0.866 | Foundation (Low Tide) |
+| V-06 | H(0,-1) | 0.000 | -2.000 | 0.500 | Distribution Hub |
+
+### 3. Operational Protocols
+- **Resonance Frequency ($f_{res}$):** Stabilizes the depth data against universal tidal fluctuations.
+- **Flight Dynamics:** Mastering the "Gravity Slide" from V-04 to V-05 is required for the **Pilot's Wings** certification.
+- **Ecological Lock:** Automated system shutoff triggers if $z < -1.000$ to ensure the environmental protection of the bees.
+
+---
+*Created by L.E.B. | Universal Code 13954*
+
