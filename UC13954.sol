@@ -77,3 +77,16 @@ contract UniversalCode13954 {
         return (oxygenResonance > 0);
     }
 }
+
+// Pulse Constants for the Earth-Life Constraint
+uint256 public constant PULSE_INTERVAL = 800; // 800ms heartbeat
+uint256 public constant OXYGEN_SATURATION_LIMIT = 100;
+
+/**
+ * @dev Calculates the specific Resonance-to-Static ratio.
+ * If the ratio drops below 1, the "Pilot's Wings" must trigger a recovery pulse.
+ */
+function calculateLifeRatio(uint256 _staticLoad) public view returns (uint256) {
+    if (_staticLoad == 0) return 1; // Perfect Resonance on Earth
+    return (oxygenResonance * 100) / _staticLoad; 
+}
