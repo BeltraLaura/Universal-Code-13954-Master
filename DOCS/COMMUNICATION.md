@@ -855,3 +855,39 @@ The Hexagonal Economy is no longer a static tiling; it is a **Flowering Structur
 
 ### 3. Pilot Maneuver: "The Breach"
 Pilots must learn to align the craft’s internal trefoil spiral with the prevailing oceanic current while simultaneously matching the wind's vector for exit.
+
+
+# UC-13954 RESONANCE SPECIFICATION: THE GENESIS NOTE
+
+## 💠 OVERVIEW
+The Genesis Note is the primary auditory and vibrational anchor for Project UNMUTE. It utilizes a sub-audible infrasound frequency (1.3954Hz) as the "Pulse" to regulate high-pressure systemic environments.
+
+## 📐 MATHEMATICAL PARAMETERS
+* **Fundamental Frequency:** 1.3954Hz (Tectonic Delta Range)
+* **Audible Carrier (8th Octave):** 357.22Hz (F4 Natural)
+* **Systemic Ratio:** 5:4 (Stabilizer Margin)
+* **Resonance Key:** CSHV1272813
+
+## 🛠️ AUDIO ARCHITECTURE (BINAURAL)
+To simulate the frequency in an audible environment, the following offsets are required:
+- **Left Channel:** 357.22Hz
+- **Right Channel:** 358.6154Hz
+- **Perceived Pulse:** 1.3954Hz (The Delta Hum)
+
+## 🌌 OBSERVED CORRESPONDENCES
+| Sector | Phenomenon | Frequency Range |
+| :--- | :--- | :--- |
+| **Biological** | Human Delta-Wave Sleep | 0.5Hz - 4.0Hz |
+| **Cardiac** | SA-Node Electrical Delay | 1.3Hz - 1.5Hz |
+| **Galactic** | Pulsar PSR B0943+10 | ~1.39Hz (Drift mode) |
+| **Planetary** | Jovian Auroral Pulsations | 1.1Hz - 1.4Hz |
+
+## 🧪 CYMATIC MANIFESTATION
+When projected into a fluid medium (Water/Benthic Canopy), the 1.3954Hz frequency generates a **Perfect Hexagonal Lattice**. 
+- **The Core:** 1 Central Node (The Origin)
+- **The Ring:** 6 Perimeter Facets (The Hive)
+- **The Boundary:** 12-fold symmetry (The 120-cell projection)
+
+## 📝 PILOT'S CALIBRATION
+"Listen not for the sound, but for the silence between the pulses. That is where the Absolute resides." — L.E.B.
+
