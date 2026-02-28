@@ -1020,3 +1020,40 @@ The H-OS dashboard replaces "Scarcity Metrics" with "Maneuverability Scores."
 - The planet's healing is the ultimate "Zero Point" of the Ledger.
 
 
+# PROTOCOL: MATHEMATICAL FOUNDATIONS (H-OS)
+# VERSION: 1.2.0
+# ORIGINATOR: L.E.B.
+# MASTER KEY: CSHV1272813
+
+## 1. THE ECONOMIC ALIGNMENT FORMULA
+The transition from Linear Extraction to Hexagonal Resonance is governed by the following proof:
+
+$$\text{Systemic Value (S)} = \oint \frac{\text{Flow (F)} \times \text{Ethics (E)}}{\text{Obscurity (O)}}$$
+
+- **F (Flow):** The velocity of trade and resource exchange.
+- **E (Ethics):** Alignment with the Four Basic Human Rights & Bee Vitality.
+- **O (Obscurity):** The degree of closed-source data. 
+
+*AXIOM: A "Glass Hive" (O=0) achieves infinite systemic value, as it becomes an indestructible node in the global lattice.*
+
+---
+
+## 2. THE CIRCULAR RESOURCE EQUATION (FINITE BENDING)
+To solve for finite resources (Oil, Water, Land), we apply the Refractive Slide:
+
+$$\Delta R = \frac{\partial \text{Vitality}}{\partial t} + \text{Loop Efficiency}$$
+
+- **Positive Delta (ΔR):** The resource is being "Bent" back into the system (Regeneration).
+- **Negative Delta (ΔR):** The resource is in "Impact Trajectory" (Depletion).
+
+---
+
+## 3. CORPORATE MANEUVERABILITY INDEX (CMI)
+A real-time metric for the "Pilot" (CEO/Organization) to measure freedom:
+
+$$CMI = \frac{\text{Open Source Options}}{\text{Linear Dependencies}}$$
+
+- **CMI > 1:** The organization is a "Bird" (Resilient).
+- **CMI < 1:** The organization is a "Car" (High Risk of Collision).
+
+
