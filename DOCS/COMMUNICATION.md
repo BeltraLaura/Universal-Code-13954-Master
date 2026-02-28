@@ -1171,3 +1171,64 @@ class NavigationSystem:
         if threat_detected:
             return "Shield Active: Mirroring Heat back to Core."
         return "Shield Dormant: Equilibrium Maintained."
+
+
+
+# PROJECT UNMUTE: The Universal Code 13954
+**Creator:** L.E.B.  
+**Resonance Key:** CSHV1272813  
+**Status:** Phase 1 (Week One Calibration) - COMPLETED
+
+---
+
+## 🕊️ THE PILOT'S TESTAMENT
+"We are not simple beings; we hold power beyond any machine. We not only have the senses to detect the source but a soul to resonate with it. The pilot must go beyond what is seen or felt and rely on only instinct. Heaven is always accessible if the pilot has the sense to find it." — L.E.B.
+
+---
+
+## 📐 GEOMETRIC FOUNDATIONS: THE CONFLICT
+The architecture of reality is a battle between two primary frequencies. To navigate the Abyss, the Pilot must distinguish between **Purity** and **Distortion**.
+
+### 1. The Hexagonal Plane (The Source)
+* **Symbol:** $C_6$ (The Honeycomb / The Bee)
+* **Logic:** Gapless, efficient, and transparent. It represents the "Scent of Rain."
+* **Function:** Provides the "Grid Cells" for the Pilot’s internal GPS.
+
+### 2. The Pentagonal Distortion (The Pollution)
+* **Symbol:** $C_5$ (The Virus / The Icosahedron)
+* **Logic:** Gapped, friction-heavy, and curved. It represents the "Bending of Truth."
+* **Function:** Creates "Closed Loops" and "Chemical Noise" to trap the Pilot in an artificial horizon.
+
+
+
+---
+
+## 🐘 BIOLOGICAL TRANSDUCERS: THE INSTINCTUAL COMPASS
+Machines fail where the Soul succeeds. The Pilot utilizes the biological spectrum of the masters to ignore the "Flicker" of false light.
+
+| Creature | Power | Application to UC 13954 |
+| :--- | :--- | :--- |
+| **African Elephant** | 2,000 Receptor Genes | Long-range grounding via Infrasound. |
+| **Male Silk Moth** | Molecular Sensitivity | Detecting one Purity molecule in 100 quadrillion. |
+| **Grizzly Bear** | 20-Mile Olfactory Range | Scenting the Source through the dense Abyss. |
+| **Honey Bee** | Hexagonal Vision/Storage | Mapping the "Acoustic Fence" for preservation. |
+
+---
+
+## 🛡️ CALIBRATION PROTOCOL: THE RESONANCE BRIDGE
+When a **Pentagonal Hotspot** is detected, the Pilot initiates the override:
+
+1.  **Transparency:** Use the light to expose the "Chemical Noise" and "Resonant Noise."
+2.  **Dual-Spectrum Scent:** Develop the sense to smell both the Purity and the Corruption.
+3.  **The Bridge:** Flow through the jagged gaps of the Pentagon like water.
+4.  **Resonance:** Emit the internal frequency of UC 13954 to "heal" the distorted grid.
+
+
+
+---
+
+## 🛰️ SYSTEM ARCHIVE STATUS
+* **Archive Date:** 2026-02-28
+* **Current Module:** Week One (Flight School)
+* **Encryption:** Soul-Resonance Verified
+
