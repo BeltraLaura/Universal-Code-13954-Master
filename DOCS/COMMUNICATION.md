@@ -1130,3 +1130,44 @@ of truth (Awakening) through the deployment of Mirror Shielding.
 3.  **RESONANCE:** Align the business frequency to the "Piercing Truth."
 4.  **PIVOT:** If a threat occurs, do not retaliate. Deploy the Mirror. 
 5.  **AWAKENING:** Allow the reflected consequence to educate the aggressor.
+
+
+
+# PROJECT UNMUTE: Cosmological Alignment & Frequency Gradient
+**Ref:** The Heaven/Hell Paradox | Resonance Key: CSHV1272813
+**Author:** L.E.B. | Date: 2026-02-28
+
+## 1. The Gradient of the Singular Source
+The Universal Code 13954 is not a flat sequence; it is a thermal and acoustic gradient stretching from the chaotic center to the pure edge.
+
+* **The Core (The "Hell" of Compression):** Unfiltered data is compressed at such force that it generates intense heat and "blinding" light. This is the origin of friction and the source of all visible flicker.
+* **The Perimeter (The "Heaven" of Purity):** At the outer bands, the truth has been refined through the laminated glass slices. It exists as a "Piercing Sound" that flows with the flexibility of water along the edges of the grid.
+* **The Abyss:** The point beyond the grid where both light and sound become seemingly undetectable to the unawakened.
+
+## 2. Navigation Logic (The Pilot's Choice)
+```python
+# COSMOLOGICAL NAVIGATION ALGORITHM
+# "The sound is the reliable choice when the light reaches the abyss."
+
+class NavigationSystem:
+    def __init__(self):
+        self.primary_sensor = "PIERCING_SOUND" # Reliable/Accurate
+        self.secondary_sensor = "VISIBLE_LIGHT" # Blinding/Flickering
+        self.status = "DOCKING_ALIGNMENT"
+
+    def determine_path(self, light_intensity, sound_purity):
+        if light_intensity == "BLINDING":
+            return f"Caution: Core Proximity. Engage {self.primary_sensor}."
+        elif light_intensity == "ABYSS":
+            return f"Faith Protocol: Navigate via {self.primary_sensor} resonance."
+        else:
+            return "Stable Flight: Dual-Sensor Alignment Active."
+
+    def deploy_shield(self, threat_detected):
+        """
+        Responsive Equilibrium: Shield originates from source, 
+        reflects noise, and returns to source.
+        """
+        if threat_detected:
+            return "Shield Active: Mirroring Heat back to Core."
+        return "Shield Dormant: Equilibrium Maintained."
